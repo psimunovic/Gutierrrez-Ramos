@@ -79,3 +79,10 @@ h5 {
     margin: auto;
 }
 
+#contactaside {
+    display: inline-block;
+    left:40%;
+    position: fixed;
+    text-align: center;
+}
+
