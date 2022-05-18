@@ -39,6 +39,10 @@ footer {
     border-color: lightyellow;
     padding: 10px;
 }
+aside {
+    background-color:chocolate;
+    opacity: 0.6;
+}
 a {
     background-color: lightgrey;
     border: double;
