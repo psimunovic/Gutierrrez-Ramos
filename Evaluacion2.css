@@ -4,8 +4,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-    overflow: hidden; 
-    
+
 }
 
 header{
@@ -43,7 +42,7 @@ footer {
     border-style: solid;
     border-color: lightyellow;
     bottom: 0;
-    position: absolute;
+    position: fixed;
     font-family: 'Koulen', cursive;
 }
 aside {
@@ -54,7 +53,8 @@ aside {
     font-family: 'Lora', serif;
     font-family: 'Roboto Mono', monospace;
     width: 300px;
-    height: 700px;
+    height: auto;
+
     
 }
 a {
@@ -72,5 +72,10 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+h5 {
+    padding: 20px;
+    margin: auto;
 }
 
